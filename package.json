@@ -1,0 +1,22 @@
+{
+  "name": "roberts",
+  "version": "1.0.0",
+  "description": "Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joalcapa/Roberts.git"
+  },
+  "keywords": [
+    "Server"
+  ],
+  "author": "Jose Caceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joalcapa/Roberts/issues"
+  },
+  "homepage": "https://github.com/joalcapa/Roberts#readme"
+}
