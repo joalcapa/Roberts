@@ -1,5 +1,5 @@
-import { Application, Router } from "./deps.ts";
-import { applyPages } from "./utils.ts";
+import {Application, Router} from "./deps.ts";
+import {applyPages} from "./utils.tsx";
 
 const router : Router = new Router();
 applyPages(router);
